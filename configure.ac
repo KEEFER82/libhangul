@@ -41,7 +41,6 @@ AC_PROG_INSTALL
 AC_HEADER_STDC
 AC_CHECK_HEADERS([stdlib.h string.h limits.h])
 AC_CHECK_HEADERS([langinfo.h])
-AC_CHECK_HEADERS([glob.h])
 
 # Checks for typedefs, structures, and compiler characteristics.
 AC_HEADER_STDBOOL
